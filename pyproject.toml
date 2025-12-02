@@ -1,0 +1,10 @@
+[project]
+name = "maze-py"
+version = "0.1.0"
+description = "Object-oriented maze generator and solver"
+readme = "README.md"
+requires-python = ">=3.7"
+dependencies = []
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
