@@ -7,7 +7,7 @@ from .results import MazeSolution, SolverStats
 
 __all__ = [
     "BreadthFirstSolver",
-    # "DepthFirstSolver",
+     "DepthFirstSolver",
     # "DijkstraSolver",
     "MazeSolution",
     "SolverStats",
