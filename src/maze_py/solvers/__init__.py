@@ -1,7 +1,7 @@
 """Solver exports."""
 
 from .breadth_first import BreadthFirstSolver
-# from .depth_first import DepthFirstSolver
+from .depth_first import DepthFirstSolver
 # from .dijkstra import DijkstraSolver
 from .results import MazeSolution, SolverStats
 
